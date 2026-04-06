@@ -7,17 +7,6 @@ REST API for consumption.
 
 ---
 
-## Table of Contents
-1. [Project Structure](#project-structure)
-2. [Tech Stack](#tech-stack)
-3. [How It Works](#how-it-works)
-4. [Setup & Installation](#setup--installation)
-5. [API Endpoints](#api-endpoints)
-6. [Key Concepts Explained](#key-concepts-explained)
-7. [Interview Q&A](#interview-qa)
-
----
-
 ## Project Structure
 
 ```
